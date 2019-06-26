@@ -1,3 +1,3 @@
 # LICENSE 
 
-## APACHE
+## APACHE 2.0
